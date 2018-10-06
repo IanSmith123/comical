@@ -1,13 +1,13 @@
-Ä¬ÈÏnginxÒ³ÃæÓĞµãlow,²»Èç..
+é»˜è®¤nginxé¡µé¢æœ‰ç‚¹low,ä¸å¦‚..
 
-![funny](images\funny.png)
+![funny](images/funny.png)
 
-![screenshot](images\screenshot.png)
+![screenshot](images/screenshot.png)
 
-À´Ô´ÒÑ¾­²»¿É¿¼
+æ¥æºå·²ç»ä¸å¯è€ƒ
 
-ÓÃ·¨£º
+ç”¨æ³•ï¼š
 ```
 docker-compose up -d
 ```
-Æô¶¯ºó»á¼àÌı8002¶Ë¿Ú
+å¯åŠ¨åä¼šç›‘å¬8002ç«¯å£
